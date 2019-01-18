@@ -56,8 +56,8 @@
 
 [**亚当·科瓦切维奇**](https://www.ces.tech/conference/speaker-directory/Adam-Kovacevich.aspx)
  * 公共政策司司长
- * 谷歌  
- [**萨沙·莫斯**](https://www.ces.tech/conference/speaker-directory/Sasha-Moss.aspx)
+ * 谷歌    
+[**萨沙·莫斯**](https://www.ces.tech/conference/speaker-directory/Sasha-Moss.aspx)
  * 联邦事务经理
  * R街协会
 

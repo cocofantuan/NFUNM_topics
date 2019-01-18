@@ -18,30 +18,27 @@
 
 #### 主持人
 
-**[杰米·布奥内]**(https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
+[**杰米·布奥内**](https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
 
  * 高级政府事务总监 
 
  * 消费技术协会
 
-**[约翰·戈弗雷]**(https://www.ces.tech/conference/speaker-directory/John-Godfrey.aspx)
+[**约翰·戈弗雷**](https://www.ces.tech/conference/speaker-directory/John-Godfrey.aspx)
 
  * 高级副总裁, 公共政策
 
  * 三星电子美国
 
-**[特克德拉马瓦卡纳]**(https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
+[**特克德拉马瓦卡纳**](https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
 
  * 首席外部干事
 
  * 韦莫
 
-**[梅丽莎蒂]**(https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
-
+[**梅丽莎蒂**](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
  * 副总裁, 公共政策
-
  * 威瑞森
- 
  
 - 下午2:15 – 3:15 
 
@@ -55,29 +52,23 @@
 
 #### 主持人
 
-**[迈克·艾伦]**(https://www.ces.tech/conference/speaker-directory/Mike-Allen.aspx)
-
+[**迈克·艾伦**](https://www.ces.tech/conference/speaker-directory/Mike-Allen.aspx)
  * 联合创始人兼执行编辑
  * Axios
 
-**[扎克·格雷夫斯]**(https://www.ces.tech/conference/speaker-directory/Zach-Graves.aspx)
-
+[**扎克·格雷夫斯**](https://www.ces.tech/conference/speaker-directory/Zach-Graves.aspx)
  * 政策主管
-
  *  Lincoln Network
 
-**[亚当·科瓦切维奇]**(https://www.ces.tech/conference/speaker-directory/Adam-Kovacevich.aspx)
-
+[**亚当·科瓦切维奇**](https://www.ces.tech/conference/speaker-directory/Adam-Kovacevich.aspx)
  * 公共政策司司长
  * 谷歌
-**[萨沙·莫斯]**(https://www.ces.tech/conference/speaker-directory/Sasha-Moss.aspx)
+[**萨沙·莫斯**](https://www.ces.tech/conference/speaker-directory/Sasha-Moss.aspx)
  * 联邦事务经理
  * R街协会
 
-**[迈克·彼得里科内]**(https://www.ces.tech/conference/speaker-directory/Michael-Petricone.aspx)
-
+[**迈克·彼得里科内**](https://www.ces.tech/conference/speaker-directory/Michael-Petricone.aspx)
  * 高级副总裁, 政府和监管事务
-
  * 消费技术协会
 
 ### 1月9日, 星期三
@@ -94,21 +85,21 @@
 
 #### 主持人
 
-**[迈克·彼得里科内]**(https://www.ces.tech/conference/speaker-directory/Michael-Petricone.aspx)
+[**迈克·彼得里科内**](https://www.ces.tech/conference/speaker-directory/Michael-Petricone.aspx)
  * 高级副总裁, 政府和监管事务
  * 消费技术协会
 
-**[达瑞勒·伊萨]**(https://www.ces.tech/conference/speaker-directory/Darrell-Issa.aspx)
+[**达瑞勒·伊萨**](https://www.ces.tech/conference/speaker-directory/Darrell-Issa.aspx)
 
-**[朱尔斯·波洛尼斯基]**(https://www.ces.tech/conference/speaker-directory/Jules-Polonetsky.aspx)
+[**朱尔斯·波洛尼斯基**](https://www.ces.tech/conference/speaker-directory/Jules-Polonetsky.aspx)
  * 总裁
  * 私密论坛的未来
 
-**[米歇尔·理查德森]**(https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
+[**米歇尔·理查德森**](https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
  * 隐私和数据项目主任
  * 民主与技术中心
 
-**[杰弗里·祖布里茨基]**(https://www.ces.tech/conference/speaker-directory/Jeffrey-Zubricki.aspx)
+[**杰弗里·祖布里茨基**](https://www.ces.tech/conference/speaker-directory/Jeffrey-Zubricki.aspx)
  * 全球公共政策司司长
  * 沃尔玛
 
@@ -124,19 +115,19 @@
 
 #### 主持人
 
-**[蒂芬尼·摩尔]**(https://www.ces.tech/conference/speaker-directory/Tiffany-Moore.aspx)
+[**蒂芬尼·摩尔**](https://www.ces.tech/conference/speaker-directory/Tiffany-Moore.aspx)
  * 政治和工业事务高级副总裁
  * 消费技术协会
 
-**[伯纳德·科尔曼]**(https://www.ces.tech/conference/speaker-directory/Bernard-Coleman.aspx)
+[**伯纳德·科尔曼**](https://www.ces.tech/conference/speaker-directory/Bernard-Coleman.aspx)
  * 全球主管, 多样性和包容性
  * 优步
 
-**[伊丽莎白·戈尔]**(https://www.ces.tech/conference/speaker-directory/Elizabeth-Gore.aspx)
+[**伊丽莎白·戈尔**](https://www.ces.tech/conference/speaker-directory/Elizabeth-Gore.aspx)
  * 主席
  * Alice -- HelloAlice.com
 
-**[米歇尔·莫里斯]**(https://www.ces.tech/conference/speaker-directory/Michelle-Morris.aspx)
+[**米歇尔·莫里斯**](https://www.ces.tech/conference/speaker-directory/Michelle-Morris.aspx)
  * 全球营销解决方案副总裁
  * 脸书
 
@@ -154,15 +145,15 @@
 
 #### 主持人
 
-**[沃特·奥尔康]**(https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
+[**沃特·奥尔康**](https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
  * 环境事务和工业可持续发展副总裁
  * 消费技术协会
 
-**[穆里尔·鲍瑟]**(https://www.ces.tech/conference/speaker-directory/Muriel-Bowser.aspx)
+[**穆里尔·鲍瑟**](https://www.ces.tech/conference/speaker-directory/Muriel-Bowser.aspx)
  * 市长
  * 华盛顿
 
-* [乔·巴斯卡诺](https://www.ces.tech/conference/speaker-directory/Joe-Buscaino.aspx)
+[**乔·巴斯卡诺**](https://www.ces.tech/conference/speaker-directory/Joe-Buscaino.aspx)
  * 议员
  * 洛杉矶市
 
@@ -180,23 +171,23 @@
 
 
 #### 主持人
-**[道格·约翰逊]**(https://www.ces.tech/conference/speaker-directory/Doug-Johnson.aspx)
+[**道格·约翰逊**](https://www.ces.tech/conference/speaker-directory/Doug-Johnson.aspx)
  * 技术政策副总裁
  * 消费技术协会
 
-**[亚里夫·巴什]**(https://www.ces.tech/conference/speaker-directory/Yariv-Bash.aspx)
+[**亚里夫·巴什**](https://www.ces.tech/conference/speaker-directory/Yariv-Bash.aspx)
  * 联合创始人兼首席执行官
  * Flytrex
 
-**[戴安娜·库珀]**(https://www.ces.tech/conference/speaker-directory/Diana-Cooper.aspx)
+[**戴安娜·库珀**](https://www.ces.tech/conference/speaker-directory/Diana-Cooper.aspx)
  * 高级副总裁, 政策和战略
  *  PrecisionHawk
 
-**[金伯利·达林]**(https://www.ces.tech/conference/speaker-directory/Kimberly-Darrin.aspx)
+[**金伯利·达林**](https://www.ces.tech/conference/speaker-directory/Kimberly-Darrin.aspx)
  * 公共政策司司长
  * AT&T
 
-**[布伦丹·舒尔曼]**(https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx）
+[**布伦丹·舒尔曼**](https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx）
  * 政策与法律事务副总裁
  * DJI
 
@@ -214,28 +205,28 @@
 
 #### 主持人
 
-**[雷内·夸希]**(https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
+[**雷内·夸希**](https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
  * 政策和监管事务副总裁
  * 消费技术协会
 
-**[柯林·阿纳瓦蒂]**(https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
+[**柯林·阿纳瓦蒂**](https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
  * 执行董事
  * athenahealth
 
-**[贝蒂娜·埃克斯佩东博士]**(https://www.ces.tech/conference/speaker-directory/Dr-Bettina-Experton.aspx)
+[**贝蒂娜·埃克斯佩东博士**](https://www.ces.tech/conference/speaker-directory/Dr-Bettina-Experton.aspx)
  * 创始人兼首席执行官
  * Humetrix
 
-**[罗斯·弗里德伯格]**(https://www.ces.tech/conference/speaker-directory/Ross-Friedberg.aspx)
+[**罗斯·弗里德伯格**](https://www.ces.tech/conference/speaker-directory/Ross-Friedberg.aspx)
  * 总法律顾问兼首席隐私官
  * Doctor on Demand
 
 
-**[马克·戈德沙]**(https://www.ces.tech/conference/speaker-directory/Marc-Goldsand.aspx)
+[**马克·戈德沙**](https://www.ces.tech/conference/speaker-directory/Marc-Goldsand.aspx)
  * 委员
  * Cozen O'Connor
 
-**[德鲁·席勒]**(https://www.ces.tech/conference/speaker-directory/Drew-Schiller.aspx)
+[**德鲁·席勒**](https://www.ces.tech/conference/speaker-directory/Drew-Schiller.aspx)
  * 总裁
  * Validic
 
@@ -253,25 +244,25 @@
 
 #### 主持人
 
-**[萨吉·钱德勒]**(https://www.ces.tech/conference/speaker-directory/Sage-Chandler.aspx)
+[**萨吉·钱德勒**](https://www.ces.tech/conference/speaker-directory/Sage-Chandler.aspx)
  * 国际贸易副总裁
  * 消费者技术协会
 
-**[亚伦·艾美]**(https://www.ces.tech/conference/speaker-directory/Aaron-Emigh.aspx)
+[**亚伦·艾美**](https://www.ces.tech/conference/speaker-directory/Aaron-Emigh.aspx)
  * 联合创始人兼首席执行官
  * Brilliant
 
 
-**[丽莎·埃里昂]**(https://www.ces.tech/conference/speaker-directory/Lisa-Errion.aspx)
+[**丽莎·埃里昂**](https://www.ces.tech/conference/speaker-directory/Lisa-Errion.aspx)
  * 美洲政府和对外事务副总裁
  * 宝马
 
 
-**[布瑞恩·库尔]**(https://www.ces.tech/conference/speaker-directory/Brian-Kuehl.aspx)
+[**布瑞恩·库尔**](https://www.ces.tech/conference/speaker-directory/Brian-Kuehl.aspx)
  * 执行董事
  * Farmers for Free Trade
 
-**[莎拉·索恩]**(https://www.ces.tech/conference/speaker-directory/Sarah-Thorn.aspx)
+[**莎拉·索恩**](https://www.ces.tech/conference/speaker-directory/Sarah-Thorn.aspx)
  * 全球政府事务高级主任
  * 沃尔玛
 
@@ -288,20 +279,20 @@
 人工智能即将使我们生活的许多方面发生革命性的变化, 并产生积极的影响。在其中一些 ai 系统中, 仍然存在偏置的问题。在本次讨论中, 我们将探讨解决人工智能中的偏差的政策和技术选择。
 
 #### 主持人
-**[米迦勒·海因斯]**(https://www.ces.tech/conference/speaker-directory/Michael-Hayes.aspx)
+[**米迦勒·海因斯**](https://www.ces.tech/conference/speaker-directory/Michael-Hayes.aspx)
  * 政府事务高级经理
  * 消费者技术协会
 
-**[金孙敏]**(https://www.ces.tech/conference/speaker-directory/Sunmin-Kim.aspx)
+[**金孙敏**](https://www.ces.tech/conference/speaker-directory/Sunmin-Kim.aspx)
  * 技术政策顾问
  * Office of Senator Brian Schatz
 
-**[林恩·帕克]**(https://www.ces.tech/conference/speaker-directory/Lynne-Parker.aspx)
+[**林恩·帕克**](https://www.ces.tech/conference/speaker-directory/Lynne-Parker.aspx)
  * AI 策略主管
  * The White House Office of Science and Technology Policy
 
 
-**[巴里·威廉姆斯]**(https://www.ces.tech/conference/speaker-directory/Bari-Williams.aspx)
+[**巴里·威廉姆斯**](https://www.ces.tech/conference/speaker-directory/Bari-Williams.aspx)
  * 法律、政策和商业事务副总裁
  * All Turtles
 

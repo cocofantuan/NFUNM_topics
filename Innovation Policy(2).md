@@ -2,7 +2,7 @@
 =================
 
 科技企业家和决策者必须共同努力, 促进增长和创新。我们国家的经济和世界领导地位取决于此。快来听听顶尖创新者、政策制定者和监管机构讨论影响和推动创新的热点问题。主题将包括 5g, 自驾游, 技术助理, 隐私, 多样性, 无人机, 人工智能, 数字健康, 贸易和关税。包含在:  
-- [CES 注册]（https://www.ces.tech/Logistics/Register-Now.aspx）
+- [CES 注册](https://www.ces.tech/Logistics/Register-Now.aspx)
 
 由消费者技术协会提交
 ### 1月8日, 星期二
@@ -11,7 +11,7 @@
 
 - 会议会话实时流
 
-### [5g 和自驾车: 政策路线图]（https://www.ces.tech/conference/Innovation-Policy/5G-and-SelfDriving-Vehicles-A-Policy-Roadmap.aspx）
+### [5g和自驾车: 政策路线图](https://www.ces.tech/conference/Innovation-Policy/5G-and-SelfDriving-Vehicles-A-Policy-Roadmap.aspx)
  * 位置 美国拉斯维加斯会展中心 北展厅 N258
 
 5g、自驾游车辆和物联网等革命性技术正在破坏传统的交通和通信模式, 重塑我们的社区, 增加流动性、消费者选择和互联互通。专家们讨论保持美国领先的政策优先事项。

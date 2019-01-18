@@ -19,24 +19,18 @@
 #### 主持人
 
 [**杰米·布奥内**](https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
-
  * 高级政府事务总监 
-
  * 消费技术协会
 
 [**约翰·戈弗雷**](https://www.ces.tech/conference/speaker-directory/John-Godfrey.aspx)
-
  * 高级副总裁, 公共政策
-
  * 三星电子美国
 
-[**特克德拉马瓦卡纳**](https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
-
+[**特克德拉·马瓦卡纳**](https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
  * 首席外部干事
-
  * 韦莫
 
-[**梅丽莎蒂**](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
+[**梅丽莎·蒂**](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
  * 副总裁, 公共政策
  * 威瑞森
  
@@ -187,7 +181,7 @@
  * 公共政策司司长
  * AT&T
 
-[**布伦丹·舒尔曼**](https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx）
+[**布伦丹·舒尔曼**](https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx)
  * 政策与法律事务副总裁
  * DJI
 
@@ -301,7 +295,7 @@ CES所有会议均按先到先得的原则就座。
 会议
 ----------
 
-[会议日程]（https://www.ces.tech/Conference/Conference-Program.aspx)
+[会议日程](https://www.ces.tech/Conference/Conference-Program.aspx)
 
 [浏览会议](https://www.ces.tech/schedule.aspx)
 
@@ -353,7 +347,7 @@ Information for:
 
 - [媒体](https://www.ces.tech/media.aspx)
 
-- [国际](https://www.ces.tech/international.aspx）
+- [国际](https://www.ces.tech/international.aspx)
 
 Access the:
 
